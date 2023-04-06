@@ -1,7 +1,7 @@
 # AI-Powered 3D Website Using ReactJS & ThreeJS
-<img src=".Capture.PNG" />
+<img src="./Capture.PNG" />
 <br>
-<img src=".Capture1.PNG" />
+<img src="./Capture1.PNG" />
 <br>
 ## Introduction
 Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
